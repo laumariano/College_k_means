@@ -1,7 +1,7 @@
 # Projeto K-Means: Sistemas Inteligentes 🤖
 
 ## 🎯 Objetivos
-Neste projeto, exploramos algoritmos de clustering (K-Means, K-Medoids) para uma abordagem não-supervisionada em um conjunto de dados sobre universidades dos EUA. O objetivo é agrupar corretamente as duas classes: universidades públicas e universidades privadas com base nas suas características, proporcionando insights valiosos sobre os padrões de agrupamento.
+Neste projeto, explorei algoritmos de clustering (K-Means, K-Medoids) para uma abordagem não-supervisionada em um conjunto de dados sobre universidades dos EUA. O objetivo é agrupar corretamente as duas classes: universidades públicas e universidades privadas com base nas suas características, proporcionando insights valiosos sobre os padrões de agrupamento.
 
 ## 🛠️ Tecnologias
 - Python
